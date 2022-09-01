@@ -1,3 +1,4 @@
+/*
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -80,19 +81,21 @@ h4 {
     gap: 10px;
 }
 
-.blog-paragraph a {
-    background-color: lightgray;
-    border: 1px solid black;
+.blog-paragraph {
+    margin-top: 10%;
+    margin-left: 25px;
 }
 
 .blog-paragraph p {
     color: black;
     font-size: 20px;
+
 }
 
-.blog-paragraph {
-    margin-top: 10%;
-    margin-left: 25px;
+.blog-paragraph a {
+    background-color: lightgray;
+    border: 1px solid black;
+
 }
 
 .middle-section {
